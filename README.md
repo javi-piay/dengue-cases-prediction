@@ -203,7 +203,7 @@ https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
 ## 👤 Author
 
 Javier Piay  
-Industrial Engineer | Big Data & AI | UEFA C Coach    
+Industrial Engineer | Big Data & AI 
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/javier4piay)
 

@@ -7,6 +7,24 @@ This project explores the complete machine learning workflow, including **explor
 
 ---
 
+## 📁 Repository Structure
+
+The project is organized into modular directories to ensure scalability and order:
+
+```
+├── assets/                  # Images and visual content (e.g., for README banner)
+├── calibration_process/     # Scripts and images for intrinsic camera calibration
+├── complete_padel_system/   # Unified application integrating Security + Tracker
+├── security_system/         # Independent biometric pattern recognition module
+├── tracking_system/         # Independent ball tracking and umpire logic module
+│
+├── .gitignore               # Git configuration
+├── README.md                # Project documentation
+├── documentation.pdf        # Final report and project documentation
+└── requirements.txt         # Dependencies and required libraries
+```
+
+
 # 📌 Project Overview
 
 Dengue fever is a mosquito-borne disease influenced by environmental factors such as temperature, humidity, and vegetation.
